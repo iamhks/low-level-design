@@ -1,3 +1,5 @@
+package design_patterns.singleton;
+
 public class ParkingLot {
     public static ParkingLot instance;
     
